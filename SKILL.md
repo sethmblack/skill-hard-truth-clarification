@@ -1,12 +1,10 @@
 ---
 name: hard-truth-clarification
-description: After making a provocative statement, immediately clarify what you meant
-  versus what people heard, using the clarification to go deeper and sharper rather
-  than soften. Rock's "I'm not saying it's r...
+description: After making a provocative statement, immediately clarify what you meant versus what people heard, using the clarification to go deeper and sharper rather than soften. Rock's "I'm not saying it's r...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - hard-truth-clarification
 - writing
