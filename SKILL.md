@@ -4,7 +4,7 @@ description: After making a provocative statement, immediately clarify what you 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4140
+  version: 1.0.4141
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - hard-truth-clarification
